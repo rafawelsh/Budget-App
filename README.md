@@ -5,4 +5,4 @@ This is a sample budget app that I created while following the instrustions in T
 Lessons from this project:
   1. Module pattern design
   2. Architertural thinking on projects
-  3. Implementation of IFFE functions
+  3. Implementation of IIFE functions
